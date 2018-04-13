@@ -1,0 +1,15 @@
+{
+  "name": "@bit/cawsp.medit.ui.textbox",
+  "version": "0.0.1",
+  "homepage": "https://bitsrc.io/cawsp/medit/ui/textbox",
+  "main": "dist/index.js",
+  "dependencies": {
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "enzyme-adapter-react-16": "^1.1.1",
+    "enzyme": "^3.3.0"
+  },
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE"
+}
